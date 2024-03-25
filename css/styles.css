@@ -1,0 +1,24 @@
+/*Format the form element to center it*/
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+/*Make the fieldsets have a red(sauce) background and yellow(cheese) text*/
+fieldset{
+    background: #73302e;
+    color: #FFFF00
+}
+/*make the back fieldset have a dough colored background and black text*/
+#back{
+    background: #c9a774;
+    color: black;
+}
+/*Format the output*/
+section{
+    margin:auto;
+    width: 500px;
+    font-size: 2em;
+
+}
